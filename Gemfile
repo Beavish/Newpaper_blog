@@ -41,7 +41,7 @@ gem 'jbuilder', '~> 2.7'
 #required for action text too
 gem 'mini_magick'
 # Use Active Storage variant
- gem 'image_processing', '~> 1.2'
+ gem 'image_processing', '~> 1.12'
  #payments
  gem 'braintree'
 
